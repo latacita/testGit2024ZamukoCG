@@ -1,0 +1,7 @@
+22.git push     (saltan conflictos)
+   git pull
+   git add .
+   git commit -m "Resolucion conflictos"
+   git push
+23.git checkout SegundaRama
+24.code pasosExtra.txt
