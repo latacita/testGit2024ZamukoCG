@@ -12,3 +12,6 @@
         git checkout PrimeraRama
 6.      git branch SegundaRama
         git checkout SegundaRama
+13.     git checkout SegundaRama
+14.     seria recursiva ya que tienen commits distintos
+15.     seris fast forward debido a que no tienen commits distintos en una de ellas
