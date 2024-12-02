@@ -10,3 +10,5 @@
 2.      Cambios en el documento
 4.      git branch PrimeraRama
         git checkout PrimeraRama
+11.     git stash 
+        git checkout PrimeraRama
