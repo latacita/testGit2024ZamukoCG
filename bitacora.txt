@@ -17,3 +17,6 @@
    git commit -m "Resolucion conflictos"
 19.git checkout master
 20.git stash apply
+26.git tag PasosExtras
+27.git checkout master
+28.git cherry-pick PasosExtras
