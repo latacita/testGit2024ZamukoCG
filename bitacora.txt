@@ -8,3 +8,12 @@
 ====== ============================ ================================
 1.      git clone https://github.com/latacita/testGit2024ZamukoCG.git
 2.      Cambios en el documento
+
+8.git push origin SegundaRama
+9.git checkout master
+17.git checkout PrimeraRama
+18.git merge SegundaRama               saltan conflictos a solucionar
+   git add .
+   git commit -m "Resolucion conflictos"
+19.git checkout master
+20.git stash apply
