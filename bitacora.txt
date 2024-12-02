@@ -1,8 +1,10 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):Carrera Garmendia Samuel              %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1.      git clone https://github.com/latacita/testGit2024ZamukoCG.git
+2.      Cambios en el documento
